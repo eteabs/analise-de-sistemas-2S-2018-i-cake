@@ -1,5 +1,4 @@
 # analise-de-sistemas-2S-2018-i-cake
-analise-de-sistemas-2S-2018-i-cake created by GitHub Classroom
 
 O projeto iCake é formado pelos integrantes: Eduardo Almeida, Lucas de Carvalho e Gustavo Ribeiro.
 
